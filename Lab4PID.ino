@@ -1,6 +1,7 @@
 int enA=9;
 int in1=8;
 int in2=7;
+int in3=5;
 
 int sensorA=3;
 int sensorB=2;
